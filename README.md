@@ -11,4 +11,4 @@ restores the original image from the damages one.
       * Save the image and run your script over this edited image not the original one.
  * After the execution is completed, you will find the damaged portion recovered.
  
-__ *Thank you
+# __ Thank you
